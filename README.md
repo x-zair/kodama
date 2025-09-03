@@ -8,6 +8,6 @@ Rscript advance_PCA_ewa.r
 ```
 
 ## 2. Beast
-- Use the traits to now execute beast
+- Use the traits to now execute beast (10.5.0)
 - Parameters:
 - 
