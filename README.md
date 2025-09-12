@@ -23,3 +23,4 @@ Find the lines that have `-Xms64m -Xmx4096m` and modify the xmx to 8G or whateve
 ```
 treeannotator -burnin 1000000 [in].trees.txt [out].tree
 ```
+## 3. Transphylo and code
