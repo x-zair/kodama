@@ -10,7 +10,7 @@ Rscript advance_PCA_ewa.r
 ## 2. Beast
 - Use the traits to now execute beast (10.5.0)
 - Parameters:
-- 
+- the way i structured it, BEAST outputs in /ephxz/quasi/19A/Beast. the quasispecies MCMC is in ./tree
 
 ### Tree annotator
 > [!IMPORTANT]
