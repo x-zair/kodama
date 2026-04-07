@@ -24,3 +24,8 @@ Find the lines that have `-Xms64m -Xmx4096m` and modify the xmx to 8G or whateve
 treeannotator -burnin 1000000 [in].trees.txt [out].tree
 ```
 ## 3. Transphylo and code
+
+
+#WAIT
+Dropping the descrete varaibles into beasta always pushed the tip dates. But the issues is generatlly speaking: that same effect is very likely to recur in the allele‑frequency route you’re now targeting, unless you explicitly constrain or calibrate the trait‑like component. The core issue is that continuous Brownian‑motion‑style traits (whether PCA scores or allele frequencies) pull the branch‑length / rate‑time balance, often pushing node dates “later” in shallow, fast‑evolving systems like SARS‑CoV‑2.
+
